@@ -6,8 +6,6 @@
 
 A deep learning-based system that recognizes food in images, estimates portion sizes, provides nutritional information, and answers natural language queries about food.
 
-![Demo Image](docs/images/demo.png)
-
 ## Features
 
 - **Food Classification**: Identifies different types of food in images using deep learning
