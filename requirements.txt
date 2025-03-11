@@ -1,0 +1,44 @@
+# Core packages
+numpy>=1.20.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+Pillow>=8.3.0
+tqdm>=4.61.0
+scikit-learn>=0.24.0
+
+# Deep learning framework
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Image processing
+opencv-python>=4.5.3.0
+albumentations>=1.0.0
+
+# NLP packages
+transformers>=4.8.0
+nltk>=3.6.0
+
+# Web interface
+streamlit>=1.0.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+
+# Database
+sqlalchemy>=1.4.0
+sqlite3worker>=1.0.0
+
+# Utilities
+requests>=2.26.0
+pyyaml>=5.4.0
+python-dotenv>=0.19.0
+rich>=10.0.0
+
+# Development tools
+pytest>=6.2.0
+black>=21.7b0
+isort>=5.9.0
+flake8>=3.9.0
+
+# Documentation
+sphinx>=4.1.0
+sphinx-rtd-theme>=0.5.0
